@@ -1,7 +1,8 @@
 insert into 
 	public.uf(nome,  sigla) 
 values ('<nome do estado>', '<sigla>');
-Foi colocado no local de nome do estado e sigla respectivamente:
+
+Foi colocado no local de 'nome do estado' e 'sigla' respectivamente:
 Acre (AC)
 Alagoas (AL)
 Amapá (AP)
